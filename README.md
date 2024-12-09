@@ -5,7 +5,3 @@
 - 📫 How to reach me 
 - ⚡ Fun fact: I am available 24/7
 
-<!---
-Carter-Mo/Carter-Mo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
